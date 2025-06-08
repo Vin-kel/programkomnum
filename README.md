@@ -3,6 +3,9 @@ Tugas final project komnum 2025
 
 
 ---
+Soal :
+![Data](./Komnum/Data.jpeg)
+![Soal](./Komnum/Soal.jpeg)
 
 
 Cara kerja Kode: 
@@ -124,4 +127,8 @@ result = derivative_ng_backward_verbose(nilai_X, nilai_Y, x0, x)
 print(f"\nHasil akhir turunan f'({x}) ≈ {result}")
 ```
 
+
+## **Kalkulasi Manual :**
+
+![Kalkulasi_Manual](./Komnum/KalkulasiManual.jpeg)
 
